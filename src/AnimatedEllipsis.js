@@ -4,13 +4,6 @@ import PropTypes               from 'prop-types';
 
 
 export default class AnimatedEllipsis extends Component {
-  static propTypes = {
-    numberOfDots: PropTypes.number,
-    animationDelay: PropTypes.number,
-    minOpacity: PropTypes.number,
-    style: Text.propTypes.style,
-  };
-
   static defaultProps = {
     numberOfDots: 3,
     animationDelay: 300,
