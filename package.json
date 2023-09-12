@@ -10,9 +10,9 @@
   "author": "Casey Brant <casey@adorable.io>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adorableio/react-native-animated-ellipsis.git"
+    "url": "git+https://github.com/admbtlr/react-native-animated-ellipsis.git"
   },
-  "homepage": "https://github.com/adorableio/react-native-animated-ellipsis",
+  "homepage": "https://github.com/admbtlr/react-native-animated-ellipsis",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",
