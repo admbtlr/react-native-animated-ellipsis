@@ -4,7 +4,7 @@
   "description": "A simple, customizable animated dots component for use in React Native apps. Ideal for loading screens.",
   "main": "dist/AnimatedEllipsis.js",
   "scripts": {
-    "build": "babel src/ -d dist",
+    "build": "exit 0",
     "prepare": "npm run build"
   },
   "author": "Casey Brant <casey@adorable.io>",
